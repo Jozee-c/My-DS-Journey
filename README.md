@@ -4,9 +4,10 @@ As a beginner in Data Science and AI, I am currently exploring various core modu
 
 ## 📂 Modules
 * **[Neuron Network]**
-1. 神经网络-1：基础结构和架构((./neuron_network_and_representation/神经网络-1：基础结构和架构.md))
+    1. 神经网络-1：基础结构和架构(./neuron_network_and_representation/神经网络-1：基础结构和架构.md)
 
 ## 📂 Assignments
+...
 
 ## 🚀 Recent Updates
 - [2026-04-28] Added notes for Neuron Network.
